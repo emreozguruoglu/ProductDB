@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4cd32f56eeee433e96c78e77fe403575" Name="Diagram1">
+        <EntityTypeShape EntityType="DBModel.Category" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DBModel.FK_Product_Category" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBModel.Admins" Width="1.5" PointX="4.75" PointY="1" />
+        <EntityTypeShape EntityType="DBModel.sysdiagrams" Width="1.5" PointX="5.1415669867496785" PointY="15.750285647693223" />
+        <EntityTypeShape EntityType="DBModel.Users" Width="1.5" PointX="9.75767386600267" PointY="9.9467513458555334" />
+        <EntityTypeShape EntityType="DBModel.WhichGuest" Width="1.5" PointX="3.3746641163596252" PointY="28.028765497742576" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

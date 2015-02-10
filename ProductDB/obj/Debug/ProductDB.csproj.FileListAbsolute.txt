@@ -1,0 +1,170 @@
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ProductDB.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ProductDB.pdb
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Antlr3.Runtime.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.Core.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\EntityFramework.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\System.Web.Optimization.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\System.Web.Providers.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\WebGrease.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\EntityFramework.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.Core.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.pdb
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\HtmlAgilityPack.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\AjaxMin.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.Data.OData.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.Data.Edm.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\System.Spatial.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\AjaxControlToolkit.pdb
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.Data.OData.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\Microsoft.Data.Edm.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\System.Spatial.xml
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\de\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\es\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\fr\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\it\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ja\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ko\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\ru\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\ProductDB\ProductDB\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\EMRE OZGURUOGLU\downloads\documents\visual studio 2012\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.csprojResolveAssemblyReference.cache
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ProductDB.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ProductDB.pdb
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Antlr3.Runtime.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\AspNet.ScriptManager.jQuery.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.AspNet.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.Core.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\EntityFramework.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.Web.Infrastructure.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\System.Web.Optimization.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\System.Web.Providers.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\WebGrease.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\HtmlAgilityPack.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\AjaxMin.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.Data.OData.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.Data.Edm.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\System.Spatial.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\AjaxControlToolkit.pdb
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\EntityFramework.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.Core.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\DotNetOpenAuth.AspNet.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.Data.OData.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\Microsoft.Data.Edm.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\System.Spatial.xml
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ar\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\cs\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\de\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\es\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\fr\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\he\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\hi\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\it\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ja\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ko\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\nl\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\pl\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\pt\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ru\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\de\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\es\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\it\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\de\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\es\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\fr\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\it\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ja\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ko\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\ru\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hans\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\bin\zh-Hant\System.Spatial.resources.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.csprojResolveAssemblyReference.cache
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.dll
+D:\Masaüstü Yedek\Projects\ProductDB\ProductDB\obj\Debug\ProductDB.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductDbModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ProductDbModel1StoreContainer">
+    <EntitySet Name="Category" EntityType="ProductDbModel1.Store.Category" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Product" EntityType="ProductDbModel1.Store.Product" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Product_Product" Association="ProductDbModel1.Store.FK_Product_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Product1" EntitySet="Product" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Status" Type="char" Nullable="false" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+    <Property Name="Price" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="CreateDate" Type="date" Nullable="false" />
+    <Property Name="ModifiedDate" Type="date" Nullable="false" />
+    <Property Name="ImageUrl" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Status" Type="char" Nullable="false" MaxLength="1" />
+  </EntityType>
+  <Association Name="FK_Product_Product">
+    <End Role="Product" Type="ProductDbModel1.Store.Product" Multiplicity="1" />
+    <End Role="Product1" Type="ProductDbModel1.Store.Product" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="Product1">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

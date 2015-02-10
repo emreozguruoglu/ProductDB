@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ProductDB.Sayfalar.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        body {
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Panel ID="Panel1" runat="server" Height="410px" ForeColor="Black">
+            <a href="Anasayfa.aspx">ANASAYFA</a> |
+            <a href="Urunler.aspx">ÜRÜNLER</a>   | 
+            <a href="Hakkinda.aspx">HAKKINDA</a>
+                <hr />
+                <asp:ScriptManager ID="ScriptManager1" runat="server"/>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+                </asp:ContentPlaceHolder>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <hr />
+            </asp:Panel>
+
+        </div>
+    </form>
+</body>
+</html>
